@@ -1,0 +1,15 @@
+# Archivos de sistema
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Archivos de entorno virtual
+venv/
+env/
+ENV/
+*.env
+*.venv
+entorno/
